@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+.smex-items
+*~$
+places
+.recentf
+ido.last
+cider-history
+projectile-bookmarks.eld
+projectile.cache
+auto-save-list
+backups
+=======
+*.log
+*.out
+>>>>>>> 3e95f1d100cafee7b6ef98b675d9e221d27e6001
